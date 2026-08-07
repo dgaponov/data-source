@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.1](https://github.com/gravity-ui/data-source/compare/v0.10.0...v0.10.1) (2026-08-07)
+
+
+### Bug Fixes
+
+* **react-query:** drop NoInfer from data source state type ([#57](https://github.com/gravity-ui/data-source/issues/57)) ([1819349](https://github.com/gravity-ui/data-source/commit/1819349766c0cb6ae666b494f7e19c4c8c9e6845))
+
 ## [0.10.0](https://github.com/gravity-ui/data-source/compare/v0.9.0...v0.10.0) (2026-07-09)
 
 
